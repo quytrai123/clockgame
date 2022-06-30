@@ -34,7 +34,7 @@ while r:
     start1 = False
     total = 0
 
-    sound = pygame.mixer.Sound("../../use_help/sound/sound_game/Tieng-chuong-het-gio-reng-www_tiengdong_com.mp3")
+    sound = pygame.mixer.Sound("Tieng-chuong-het-gio-reng-www_tiengdong_com.mp3")
 
     clock = pygame.time.Clock()
     while running:
